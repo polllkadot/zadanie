@@ -6,3 +6,6 @@ for i in range(len(zdanie)):
   zdanie.remove(lista_spójników[i])
  else:
   break
+  
+#nie dodajęnic nowego do kodu, ale chcę zrobić zadanie od Niemca
+#pozdro
